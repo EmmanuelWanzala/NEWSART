@@ -1,0 +1,20 @@
+.tropical{
+    color:#f7325e;
+    font-family: fantasy;
+}
+p.color{
+    color:#7dc410;
+}
+.introduction{
+    background-color: plum;
+}
+p.introduction{
+    color: royalblue;
+}
+img.introduction{
+    width: 80px;
+    height: 60px;
+}
+h2.introduction{
+    color: yellow;
+}
